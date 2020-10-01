@@ -7,3 +7,6 @@
 #### Name: [Sruthy M L](https://github.com/sru-thy)
 - Place: Kerala, India
 - Bio: Student
+#### Name: [Raman Dixit](https://github.com/ramandixit13)
+- Place: Kota, India
+- Bio: Android Developer
